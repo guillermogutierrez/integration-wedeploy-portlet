@@ -1,0 +1,15 @@
+Bundle-SymbolicName: integration.wedeploy.portlet
+Bundle-Version: 1.0.0
+
+	
+Bundle-ClassPath:\
+  .,\
+    
+
+Import-Package:\
+    org.glassfish.jersey.client.*,\
+    *
+
+-includeresource:\
+
+	
